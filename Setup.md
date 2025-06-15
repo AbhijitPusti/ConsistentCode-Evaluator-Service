@@ -14,7 +14,7 @@
     "dev": "npx concurrently \"npm run start\" \"npm start\""
   }
 
-  Note: Make relevant config changesin tsconfig.json
+  Note: Make relevant config changes in tsconfig.json
 
   5.npm run dev
   
